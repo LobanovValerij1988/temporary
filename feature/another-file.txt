@@ -1,4 +1,2 @@
 Just another file cretaed in file
- This file was modified
-
-editing
+new line
